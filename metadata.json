@@ -1,0 +1,6 @@
+{
+  "name": "TaskCLI 2026 - Gestionnaire de Tâches Terminal",
+  "description": "Gestionnaire de tâches professionnel en ligne de commande (CLI) style 2026 avec invite interactive, TUI structuré, timer Pomodoro et gestion de projets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
